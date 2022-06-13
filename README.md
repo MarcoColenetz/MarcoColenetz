@@ -1,11 +1,10 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 
-<h1 align="center">Hi 👋, I'm Marco Antonio</h1>
-<h3 align="center">I'm a Web Dev student!</h3>
+<h1 align="center">Hi <img src="https://github.com/eduardoformighieri/eduardoformighieri/blob/main/gifs/Hi.gif" height="32px">, I'm Marco Antonio</h1>
 
 ```
-Tech lover, video game enthusiast. 
+Tech enthusiast, video game lover.
 Web Dev student currently living in Calgary, CA! 
 ```
 
@@ -15,7 +14,7 @@ Web Dev student currently living in Calgary, CA!
 
 - ⚡ Fun fact: **I'm a big Boston Celtics fan! ☘️**
 
-<h3 align="left">Connect with me:</h3> 
+## <h3 align="left">Connect with me: <img src="https://github.com/eduardoformighieri/eduardoformighieri/blob/main/gifs/Handshake.gif" height="32px"> </h3> 
 <a href="mailto:marcocolenetz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <p align="left"> 
 </p>
