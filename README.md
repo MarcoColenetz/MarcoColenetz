@@ -22,7 +22,7 @@ Web Dev student currently living in Calgary, CA!
 
 ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcocolenetz&show_icons=true&theme=tokyonight)
 [![marcocolenetz](https://github-readme-stats.vercel.app/api/top-langs/?username=marcocolenetz&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/marcocolenetz/)
-
+ 
 
 
 <h3 align="left"></h3>
