@@ -4,13 +4,13 @@
 <h1 align="center">Hi, I'm Marco Antonio</h1>
 
 ```
-Tech enthusiast, video game lover.
-Web Dev student currently living in Calgary, CA! 
+Web Dev student currently living in Calgary, CA!
+Passionate about tech and people
 ```
 
-- 🔭 I’m currently working on **getting better at programming**
+- 🔭 Ask me about JavaScript, HTML, CSS!
 
-- 🌱 I’m currently learning **Java, JavaScript and React**
+- 🌱 I’m currently learning **React, Node**
 
 - ⚡ Fun fact: **I'm a big Boston Celtics fan! ☘️**
 
